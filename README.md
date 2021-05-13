@@ -16,11 +16,11 @@
 
 I'm a fullstack web developer, that really love work for web, and find/ create the most creative ways to solve people's problem.
 
-## Reach me on ...
+Reach me on ...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gentilpinto/)](https://www.linkedin.com/in/dumilde-matos/)
 [![Github Page Badge](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://gentilpinto.github.io/my-page/)](https://dumildematos.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gentil.pinto.dev@gmail.com)](mailto:dumildejosematos@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/gentil.pinto2)](https://www.facebook.com/adilsonmariafuta/)
+
 
 
