@@ -6,6 +6,7 @@
 
 <!--
 **dumildematos/dumildematos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
 - 🔭 I’m currently working on AngularJS, Java, ElectronJs , ReactJs
@@ -15,9 +16,6 @@
 
 I'm a fullstack web developer, that really love work for web, and find/ create the most creative ways to solve people's problem.
 
-
-
-
 ## Reach me on ...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gentilpinto/)](https://www.linkedin.com/in/dumilde-matos/)
@@ -26,4 +24,3 @@ I'm a fullstack web developer, that really love work for web, and find/ create t
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/gentil.pinto2)](https://www.facebook.com/adilsonmariafuta/)
 
 
--->
