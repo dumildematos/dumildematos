@@ -18,9 +18,7 @@ I'm a fullstack web developer, that really love work for web, and find/ create t
 
 Reach me on ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gentilpinto/)](https://www.linkedin.com/in/dumilde-matos/)
-[![Github Page Badge](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://gentilpinto.github.io/my-page/)](https://dumildematos.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gentil.pinto.dev@gmail.com)](mailto:dumildejosematos@gmail.com)
 
-
-
+[![Linkedin: Dumilde Matos](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/dumilde-matos/)](https://www.linkedin.com/in/dumilde-matos/)
+[![Gmail Badge](https://img.shields.io/badge/-dumildejosematos@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:dumildejosematos@gmail.com)
+[![GitHub dumildematos]( https://img.shields.io/github/followers/dumildematos?label=follow&style=social)](https://github.com/dumildemato)
