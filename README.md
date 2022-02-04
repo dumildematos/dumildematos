@@ -46,7 +46,7 @@ I'm a fullstack web developer, that really love work for web, and find/ create t
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-ideea-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
