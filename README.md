@@ -54,8 +54,14 @@ I'm a fullstack web developer, that really love work for web, and find/ create t
 
 <br/>
 
+## **GitHub Stats**
+
 <a href="https://github.com/dumildematos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dumildematos&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumildematos&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/dumildematos">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dumildematos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 <br/>
