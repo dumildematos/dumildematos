@@ -52,6 +52,14 @@ I'm a fullstack web developer, that really love work for web, and find/ create t
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 
+<br/>
+
+<a href="https://github.com/dumildematos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dumildematos&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
 Reach me on ...
 
 [![Linkedin: Dumilde Matos](https://img.shields.io/badge/-dumildematos-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/dumilde-matos/)](https://www.linkedin.com/in/dumilde-matos/)
