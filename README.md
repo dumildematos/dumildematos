@@ -10,8 +10,8 @@
 
 - 🔭 I’m currently working on AngularJS, Java, ElectronJs , ReactJs
 - 🌱 I’m currently learning Java, ReactJs, ElectronJS, Node, PLSQL
-- 👯 I’m looking to collaborate on Web development projects
-- 💬 Ask me about Javascript / TypeScript
+- 👯 I’m looking to collaborate on opensource projects
+- 💬 Ask me about Javascript / TypeScript / Java / Spring Boot / MySQL / SQL /  Angular / React / Styled-Components / Hooks
 
 I'm a fullstack web developer, that really love work for web, and find/ create the most creative ways to solve people's problem.
 
