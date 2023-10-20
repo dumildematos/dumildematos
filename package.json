@@ -1,0 +1,32 @@
+{
+  "name": "dumildematos",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "description": "A dynamic README.md for Dumilde Matos GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumildematos/dumildematos.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Dumilde Matos",
+  "bugs": {
+    "url": "https://github.com/dumildematos/dumildematos/issues"
+  },
+  "homepage": "https://github.com/dumildematos/dumildematos#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.1.0"
+  }
+}
