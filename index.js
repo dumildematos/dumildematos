@@ -59,7 +59,7 @@ async function action() {
   /**
    * Fetch Weather
    */
-  await setWeatherInformation();
+  // await setWeatherInformation();
 
   /**
    * Get pictures
