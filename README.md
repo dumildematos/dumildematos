@@ -51,11 +51,18 @@
 </p>
 
 ### 📔 Latest Blog posts
+<ul>
+  <li>
+    <a href="https:&#x2F;&#x2F;dumildematos.medium.com&#x2F;what-you-should-know-about-angular-75cd74786fd7?source&#x3D;rss-a700ea04d69------2" target="_blank">What you should know about Angular.</a>
+  </li>
+  <li>
+    <a href="https:&#x2F;&#x2F;dumildematos.medium.com&#x2F;o-que-%C3%A9-um-servi%C3%A7o-no-angular-e-por-que-us%C3%A1-lo-2c8b441618cf?source&#x3D;rss-a700ea04d69------2" target="_blank">O que é um serviço no Angular e por que usá-lo?</a>
+  </li>
+  <li>
+    <a href="https:&#x2F;&#x2F;dumildematos.medium.com&#x2F;o-que-%C3%A9-gitflow-workflow-e-porqu%C3%AA-usar-b45871d6412e?source&#x3D;rss-a700ea04d69------2" target="_blank">O que é Gitflow Workflow e porquê usar ?</a>
+  </li>
+</ul>
 
-<!-- BLOG-POST-LIST:START -->
-- [What you should know about Angular](https://dumildematos.medium.com/what-you-should-know-about-angular-75cd74786fd7)
-- [O que é um serviço no Angular e porquê usá-lo?](https://dumildematos.medium.com/o-que-%C3%A9-um-servi%C3%A7o-no-angular-e-por-que-us%C3%A1-lo-2c8b441618cf)
-- [O que é Gitflow Workflow e porquê usar ?](https://dumildematos.medium.com/o-que-%C3%A9-gitflow-workflow-e-porqu%C3%AA-usar-b45871d6412e)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -68,5 +75,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 19:17 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <br /></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>

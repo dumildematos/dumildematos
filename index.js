@@ -47,6 +47,25 @@ async function setInstagramPosts() {
   DATA.img3 = instagramImages[2];
 }
 
+async function setMediumPosts(){
+  const rssFeedUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@dumildematos';
+
+ fetch(rssFeedUrl)
+  .then((response) => response.json())
+  .then((data) => {
+    const posts = data.items.slice(0,3);
+
+    const template = fs.readFileSync('main.mustache', 'utf8');
+
+    const rendered = Mustache.render(template, { items: posts });
+
+    fs.writeFileSync('README.md', rendered);
+  })
+  .catch((error) => {
+    console.error('Error fetching data:', error);
+  });
+}
+
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
@@ -65,6 +84,8 @@ async function action() {
    * Get pictures
    */
   await setInstagramPosts();
+
+  await setMediumPosts();
 
   /**
    * Generate README
