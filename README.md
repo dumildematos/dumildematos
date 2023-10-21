@@ -35,6 +35,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-222f3e?style=flat-square&logo=Unity&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffa801?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 <br/>
@@ -66,5 +68,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 12:12 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 12:21 WEST<br /></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>
