@@ -31,6 +31,28 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<br/>
+
+## **GitHub Stats**
+
+<a href="https://github.com/dumildematos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumildematos&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/dumildematos">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dumildematos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+  <p align="center" style="background: red; width: 100%;">
+    
+  [![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=dumildematos&theme=nightowl)](https://github.com/pengtaoa) 
+  </p>
+
+<br/>
+
+
+**My Contribution Status (Snake Game)**
+![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg)
 
 
 
@@ -40,5 +62,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 01:40 WEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 01:48 WEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>
