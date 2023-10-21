@@ -1,7 +1,10 @@
 <h2>
- 
-  {{greeting}}
-
+  {{#username}}
+  Hi {{username}}! Welcome to my GitHub page.
+  {{/username}}
+  {{^username}}
+  Hi anonymous user! Welcome to my GitHub page.
+  {{/username}}
 </h2>
 
 <p align="center">
@@ -56,13 +59,13 @@
             src="https://github-readme-stats.vercel.app/api?username=dumildematos&show_icons=true&theme=radical" />
 </p>
 
-### 📔 Latest Blog posts
+### 📔 Latest Medium posts
 <ul>
-  {{#items}}
+  {{#posts}}
   <li>
     <a href="{{link}}" target="_blank">{{title}}</a>
   </li>
-  {{/items}}
+  {{/posts}}
 </ul>
 
 <!-- BLOG-POST-LIST:END -->
