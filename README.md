@@ -1,7 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<p align="center">
+  <!-- Typing SVG by dumildematos - https://github.com/dumildematos/readme-typing-svg -->
+  <a href="https://github.com/dumildematos/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-<p>Welcome to my page! </br> I'm Dumilde, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197513.png" width="13"/> <b>Luanda, Angola</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="13"/> <b>Lisbon, Portugal</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -62,5 +66,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 01:48 WEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 02:00 WEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>
