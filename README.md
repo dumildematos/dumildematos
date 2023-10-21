@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Typing SVG by dumildematos - https://github.com/dumildematos/readme-typing-svg -->
   <a href="https://github.com/dumildematos/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=2ecc71&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3>Things I code with</h3>
@@ -40,20 +40,12 @@
 
 ## **GitHub Stats**
 
-<a href="https://github.com/dumildematos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumildematos&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/dumildematos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dumildematos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-  <p align="center" style="background: red; width: 100%;">
-    
-  [![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=dumildematos&theme=nightowl)](https://github.com/pengtaoa) 
-  </p>
-
-<br/>
+<p align="center">
+<br>
+    <!-- Activity Widget -->
+    <img alt="Dumilde Matos's GitHub Stats"
+            src="https://github-readme-stats.vercel.app/api?username=dumildematos&show_icons=true&theme=radical" />
+</p>
 
 ### 📔 Latest Blog posts
 
@@ -68,12 +60,10 @@
 ![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg)
 
 
-
-
 <h3>Where to find me</h3>
 <p><a href="https://github.com/dumildematos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dumildemattos" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dumilde-matos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@dumildematos" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 10:29 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 12:09 WEST<br /></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>
