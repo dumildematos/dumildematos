@@ -83,14 +83,23 @@ async function getGreeting(){
 async function setMediumPosts(){
   const rssFeedUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@dumildematos';
 
+  const username = await fetchUserInfo();
+  let greeting;
+
+  if (username) {
+    greeting = `Hi ${username}! Welcome to my GitHub page.`;
+  } else {
+    greeting = 'Hi anonymous user! Welcome to my GitHub.';
+  }
+
  await fetch(rssFeedUrl)
   .then((response) => response.json())
   .then((data) => {
     const posts = data.items.slice(0,3);
     const template = fs.readFileSync('main.mustache', 'utf8');
-    console.log({greeting: getGreeting(), items: posts })
+    console.log({greeting })
 
-    const rendered = Mustache.render(template, {greeting: getGreeting(), items: posts });
+    const rendered = Mustache.render(template, {greeting, items: posts });
 
     fs.writeFileSync('README.md', rendered);
   })
