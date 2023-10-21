@@ -1,7 +1,3 @@
-<h2>
-  Hi anonymous user! Welcome to my GitHub page.
-</h2>
-
 <p align="center">
   <h1 align="center">Dumilde Matos</h1>
 </p>
@@ -79,5 +75,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 22:37 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 21 October, 22:41 WEST<br /></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>
