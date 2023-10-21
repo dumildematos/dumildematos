@@ -3,7 +3,7 @@ const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
 const puppeteerService = require('./services/puppeteer.service');
-
+const username = process.env.GITHUB_USER;
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
@@ -54,10 +54,10 @@ async function setMediumPosts(){
   .then((response) => response.json())
   .then((data) => {
     const posts = data.items.slice(0,3);
-
+const greeting = generateGreeting(username);
     const template = fs.readFileSync('main.mustache', 'utf8');
 
-    const rendered = Mustache.render(template, { items: posts });
+    const rendered = Mustache.render(template, {greeting, items: posts });
 
     fs.writeFileSync('README.md', rendered);
   })
@@ -66,21 +66,7 @@ async function setMediumPosts(){
   });
 }
 
-async function setGreeting(){
 
-    // Get the user's login if available (requires authentication)
-    const username = process.env.GITHUB_USER; // Set this environment variable with the user's login
-
-    // Read the Mustache template from main.mustache
-    const template = fs.readFileSync('main.mustache', 'utf8');
-
-    // Render the template with the greeting, user, and the limited post data
-    const rendered = Mustache.render(template, { username});
-
-    // Write the rendered content to README.md
-    fs.writeFileSync('README.md', rendered);
-  
-}
 
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
@@ -89,7 +75,13 @@ async function generateReadMe() {
     fs.writeFileSync('README.md', output);
   });
 }
-
+function generateGreeting(username) {
+  if (username) {
+    return `Hi ${username}! Welcome to my GitHub page.`;
+  } else {
+    return 'Hi anonymous user! Welcome to my GitHub page.';
+  }
+}
 async function action() {
   /**
    * Fetch Weather
@@ -103,7 +95,6 @@ async function action() {
 
   await setMediumPosts();
 
-  await setGreeting();
 
   /**
    * Generate README
