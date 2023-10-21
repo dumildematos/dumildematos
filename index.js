@@ -66,6 +66,35 @@ async function setMediumPosts(){
   });
 }
 
+async function setGreeting(){
+
+  // Define the RSS feed URL
+const rssFeedUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@dumildematos';
+
+// Fetch data from the RSS feed
+ await fetch(rssFeedUrl)
+  .then((response) => response.json())
+  .then((data) => {
+    const posts = data.items.slice(0, 3); // Limit to the first 3 posts
+
+    // Get the user's login if available (requires authentication)
+    const username = process.env.GITHUB_USER; // Set this environment variable with the user's login
+
+    // Read the Mustache template from main.mustache
+    const template = fs.readFileSync('main.mustache', 'utf8');
+
+    // Render the template with the greeting, user, and the limited post data
+    const rendered = Mustache.render(template, { username, items: posts });
+
+    // Write the rendered content to README.md
+    fs.writeFileSync('README.md', rendered);
+  })
+  .catch((error) => {
+    console.error('Error fetching data:', error);
+  });
+
+}
+
 async function generateReadMe() {
   await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
@@ -86,6 +115,8 @@ async function action() {
   await setInstagramPosts();
 
   await setMediumPosts();
+
+  await setGreeting();
 
   /**
    * Generate README
