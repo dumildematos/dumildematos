@@ -50,12 +50,12 @@
             src="https://github-readme-stats.vercel.app/api?username=dumildematos&show_icons=true&theme=radical" />
 </p>
 
-<h2 align="center">👨‍💻 Opensource Repositories 👨‍💻</h2>
+<h2>👨‍💻 Opensource Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/dumildematos/penman" title="Penman"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dumildematos&repo=penman&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
+<br>
 ### 📔 Latest Medium posts
 <ul>
   <li>
@@ -81,5 +81,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 29 October, 21:46 WET<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 29 October, 21:50 WET<br /></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>
