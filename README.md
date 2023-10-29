@@ -64,9 +64,7 @@
 <br>
 <h2>👨‍💻 Opensource Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/dumildematos/penman" title="Penman"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dumildematos&repo=penman&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+
 <br/><br/><br/><br/><br/><br/>
 
 <h3>📔 Latest Medium posts</h3>
@@ -81,7 +79,7 @@
     <a href="https:&#x2F;&#x2F;dumildematos.medium.com&#x2F;o-que-%C3%A9-gitflow-workflow-e-porqu%C3%AA-usar-b45871d6412e?source&#x3D;rss-a700ea04d69------2" target="_blank">O que é Gitflow Workflow e porquê usar ?</a>
   </li>
 </ul>
-<br/><br/>
+
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg)
@@ -91,5 +89,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 29 October, 22:19 WET<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 29 October, 22:23 WET<br /></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>
