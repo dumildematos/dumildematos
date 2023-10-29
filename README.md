@@ -81,18 +81,15 @@
     <a href="https:&#x2F;&#x2F;dumildematos.medium.com&#x2F;o-que-%C3%A9-gitflow-workflow-e-porqu%C3%AA-usar-b45871d6412e?source&#x3D;rss-a700ea04d69------2" target="_blank">O que é Gitflow Workflow e porquê usar ?</a>
   </li>
 </ul>
-
+<br/><br/>
 <!-- BLOG-POST-LIST:END -->
 
-
-**My Contribution Status (Snake Game)**
 ![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg)
-
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/dumildematos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dumildemattos" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dumilde-matos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@dumildematos" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 29 October, 22:15 WET<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 29 October, 22:19 WET<br /></p>
 <p align="center"><img src="https://github.com/dumildematos/dumildematos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dumildematos/dumildematos?style=flat-square&labelColor=343b41"/></p>
